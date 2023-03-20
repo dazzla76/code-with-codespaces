@@ -1,0 +1,1 @@
+git add setup.sh --chmod=+x
