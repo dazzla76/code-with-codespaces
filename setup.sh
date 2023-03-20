@@ -1,1 +1,4 @@
-git add setup.sh --chmod=+x
+#!/bin/bash
+
+sudo apt-get update
+sudo apt-get install sl
